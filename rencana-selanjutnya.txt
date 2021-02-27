@@ -1,0 +1,7 @@
+Rencana Selanjutnya
+- belajar mobile dev
+ * Java
+ * Kotlin
+ * Android Studio
+- dev ops
+- data science
