@@ -4,5 +4,6 @@ My Resolusi
   * Perpustakaan
  - Membuat software
  - Belajar C++
+  * Belajar OOP
  - Beli lepi
  - Beli  Hp
