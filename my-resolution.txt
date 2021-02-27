@@ -2,3 +2,5 @@ My Resolusi
  - Membuat sebuah website
  - Membuat software
  - Belajar C++
+ - Belajar Python
+ - Beli lepi
