@@ -1,5 +1,7 @@
 My Resolusi
  - Membuat sebuah website
+  * Online shop
+  * Perpustakaan
  - Membuat software
  - Belajar C++
  - Beli lepi
