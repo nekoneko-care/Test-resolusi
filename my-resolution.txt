@@ -1,0 +1,4 @@
+My Resolusi
+ - Membuat sebuah website
+ - Membuat software
+ - Belajar C++
