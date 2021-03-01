@@ -1,0 +1,5 @@
+Halo, ini nama saya riswandi ini resolusi saya untuk kedepannya:
+- Belajar Docker
+- Belajar MongoDB
+- Belajar javascript Frameworks
+- Belajar C
