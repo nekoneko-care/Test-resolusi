@@ -2,9 +2,10 @@ My Resolusi
  - Membuat sebuah website
   * OnlineShop
   * Company Profile
- - Membuat software
  - Belajar C++
   * Belajar OOP
+ - Membuat Mobile App
  - Beli lepi
   * Lenovo ideapad slim 3
- - Beli  Hp
+ - Beli Hp
+ - Rakit PC Gaming
